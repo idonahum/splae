@@ -1,0 +1,8 @@
+[
+  {
+    "dataset_name": "MSM",
+    "source_target_pairs": [
+      ["ABDEF", "C"]
+    ]
+  }
+]
